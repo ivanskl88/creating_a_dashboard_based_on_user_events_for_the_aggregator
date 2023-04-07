@@ -6,6 +6,7 @@ Project name        |	   Создание дашборда и презентац
 **Links**           |   [Дашборд](https://public.tableau.com/views/Analysisofuserinteractionvol_2/AnalysisofuserinteractionwithYandexZencards?:language=en-US&:display_count=n&:origin=viz_share_link) <br/> [Презентация](https://drive.google.com/file/d/1dACRswbaTLWrfE4IM4XEZTYZpgdockoI/view?usp=sharing)        |
 ---
 
-![2023-04-07_20-47-40](https://user-images.githubusercontent.com/110673529/230654188-078b06fa-cd6f-4a46-a815-920fdbc42258.png)
+![2023-04-07_20-50-53](https://user-images.githubusercontent.com/110673529/230654467-c9c30358-0bff-42b5-bdc6-1bf6358448d3.png)
+
 
 
